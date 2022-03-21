@@ -63,3 +63,14 @@ D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.AspNetCore.Jso
 D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.CodeDom.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.Resources.Extensions.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.Web.Cors.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.Web.Http.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\code\.net\practiceAPI4\practiceAPI4\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

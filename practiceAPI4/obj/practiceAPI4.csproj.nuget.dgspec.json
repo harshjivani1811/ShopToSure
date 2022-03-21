@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\sureToShop\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj": {}
+    "D:\\code\\.net\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj": {}
   },
   "projects": {
-    "D:\\code\\sureToShop\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj": {
+    "D:\\code\\.net\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\sureToShop\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj",
+        "projectUniqueName": "D:\\code\\.net\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj",
         "projectName": "practiceAPI4",
-        "projectPath": "D:\\code\\sureToShop\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj",
+        "projectPath": "D:\\code\\.net\\practiceAPI4\\practiceAPI4\\practiceAPI4.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\sureToShop\\practiceAPI4\\practiceAPI4\\obj\\",
+        "outputPath": "D:\\code\\.net\\practiceAPI4\\practiceAPI4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[6.0.3, )"
+            },
+            "Microsoft.Build.Tasks.Core": {
+              "target": "Package",
+              "version": "[17.1.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -63,6 +79,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.200": {
+              "target": "Package",
+              "version": "[6.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
