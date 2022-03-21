@@ -36,7 +36,7 @@ namespace practiceAPI4.Controllers
                 return NotFound("Admin not found");
             return Ok(admin);
         }
-
+        
         [HttpPut("{id}")]
         public async Task<ActionResult<Admin>> Put(int id, Admin request)
         {
